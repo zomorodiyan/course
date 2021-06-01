@@ -1,3 +1,8 @@
+# Chosen one
+## Machine Learning CRN: 65910
+## Instructor: Aakur Narasimhan, Sathyanarayanan (Primary)
+### Mondays and Wednesdays 4:00-5:15 PM @ Life Science East | Room 215
+
 # Course Candidate for Fall 2021
 ## Mechanical Engineering Department
 ### Finite Element Methods CRN:61453
